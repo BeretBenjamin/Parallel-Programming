@@ -1,0 +1,7 @@
+﻿D:\VisualStudio\Download Chache\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab1-PDP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Account.cpp
+  AccountChecker.cpp
+  Bank.cpp
+  main.cpp
+  Generating Code...
+  Lab1-PDP.vcxproj -> C:\Users\beret\OneDrive\Desktop\ParalelProgramming\Lab1-PDP\x64\Debug\Lab1-ProgParal.exe
